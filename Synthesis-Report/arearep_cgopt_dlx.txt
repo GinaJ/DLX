@@ -1,0 +1,27 @@
+Warning: Design 'DLX' has '1' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : area
+Design : DLX
+Version: Z-2007.03-SP1
+Date   : Thu Sep  8 18:14:10 2016
+****************************************
+
+Library(s) Used:
+
+    NangateOpenCellLibrary (File: /home/mariagrazia.graziano/do/libnangate/NangateOpenCellLibrary_typical_ecsm.db)
+
+Number of ports:                3
+Number of nets:              7221
+Number of cells:             6970
+Number of references:          52
+
+Combinational area:       6348.356057
+Noncombinational area:    5421.878077
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:          11770.234375
+Total area:                 undefined
+
+Information: This design contains black box (unknown) components. (RPT-8)
+1

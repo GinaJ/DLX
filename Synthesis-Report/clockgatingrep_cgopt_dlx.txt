@@ -1,0 +1,29 @@
+Information: Building the design 'IRAM' instantiated from design 'DLX' with
+	the parameters "RAM_DEPTH=128,I_SIZE=32". (HDL-193)
+Warning: Can't find the design 'IRAM'
+	in the library 'WORK'. (LBR-1)
+Warning: Unable to resolve reference 'IRAM' in 'DLX'. (LINK-5)
+ 
+****************************************
+Report : clock_gating
+Design : DLX
+Version: Z-2007.03-SP1
+Date   : Thu Sep  8 18:14:09 2016
+****************************************
+
+  
+
+                             Clock Gating Summary
+          ------------------------------------------------------------
+          |    Number of Clock gating elements    |        0         |
+          |                                       |                  |
+          |    Number of Gated registers          |     0 (0.00%)    |
+          |                                       |                  |
+          |    Number of Ungated registers        |     369 (100.00%)
+                                                                     |
+          |                                       |                  |
+          |    Total number of registers          |        369       |
+          ------------------------------------------------------------
+  
+
+1
